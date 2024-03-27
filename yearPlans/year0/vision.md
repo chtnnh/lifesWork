@@ -23,11 +23,11 @@ ___"Artificial Intelligence"___
 ## Ambitious Goal for Quarter 1
 Implement 50 deep learning architectures after reading and making notes on the paper introducing them.
 ## Ambitious Goal for Quarter 2
-li
+li - language for and by intelligence (language designed and implemented with the help of DL)
 ## Ambitious Goal for Quarter 3
 VAIU
 ## Ambitious Goal for Quarter 4
-Publish your own SOTA architecture
+ai.chtnnhfoundation.org
 
 # Why
 AI is fun to build and I like to have fun while building things :')
