@@ -5,9 +5,9 @@ Created at: {{time}}
 ## "Today I will...
 do / learn this"
 
-## "To do my task I...
-1. did this
-2. learned this
-3. did something else
+## Self-evaluation metrics
+- [ ]  did this
+- [ ] learned this
+- [ ] did something else
 
 EOD.
