@@ -9,7 +9,7 @@ ___All direct quotes in these notes are taken from the book Deep Learning by Goo
 6. Hard-coding knowledge of the world in formal languages is the _knowledge base_ approach to AI - "None of these projects has led to a major success"
 7. "The difficulties faced by systems relying on hard-coded knowledge suggest that AI systems need the ability acquire their own knowledge..."
 
-# Papers cited
+# Papers to read later
  - [ ] Lovelace, 1842 (Can Machines Think paper)
  - [ ] Hsu, 2002 (Deep Blue paper)
  - [ ] 
