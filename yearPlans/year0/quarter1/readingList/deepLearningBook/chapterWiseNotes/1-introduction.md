@@ -6,7 +6,8 @@ ___All direct quotes in these notes are taken from the book Deep Learning by Goo
 3. Difficult problems for AI are the ones humans intuitively solve.
 4. Deep Learning is about allowing computer systems to learn through experience and not just on the knowledge that human actors can specify.
 5. DL does so by building abstractions for the computer systems.
-6. 
+6. Hard-coding knowledge of the world in formal languages is the _knowledge base_ approach to AI - "None of these projects has led to a major success"
+7. "The difficulties faced by systems relying on hard-coded knowledge suggest that AI systems need the ability acquire their own knowledge..."
 
 # Papers cited
  - [ ] Lovelace, 1842 (Can Machines Think paper)
