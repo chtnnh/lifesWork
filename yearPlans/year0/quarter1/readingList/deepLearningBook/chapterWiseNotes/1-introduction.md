@@ -1,3 +1,11 @@
+---
+feed: show
+date: 01-04-2024
+title: 1-introduction
+format: notes
+permalink: dl-book-chapter-1
+---
+
 ___All direct quotes in these notes are taken from the book Deep Learning by Goodfellow et al. 2016___
 
 # Key Points to note

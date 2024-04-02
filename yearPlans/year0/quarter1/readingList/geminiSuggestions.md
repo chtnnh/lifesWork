@@ -1,3 +1,10 @@
+---
+feed: show
+date: 01-04-2024
+title: geminiSuggestions
+layout: post
+---
+
 # General tips for any field
 Crafting a research paper reading list to become a world expert in your field is an exciting step. Here's a strategy to get you started:
 
