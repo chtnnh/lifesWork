@@ -1,8 +1,8 @@
 ---
-feed: show
+feed: hide
 date: 01-04-2024
 title: geminiSuggestions
-layout: post
+format: notes
 ---
 
 # General tips for any field
